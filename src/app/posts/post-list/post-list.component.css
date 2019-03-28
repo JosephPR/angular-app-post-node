@@ -1,0 +1,14 @@
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+  .info-text {
+    text-align: center;
+  }
+.edit{
+color: rgb(30,177,150);
+}
+.delete {
+  color: rgb(175, 40,0);
+}

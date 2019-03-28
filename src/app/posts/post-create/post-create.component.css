@@ -1,0 +1,8 @@
+
+mat-form-field,
+textarea {
+  width: 100%;
+}
+.savepost {
+  background: rgba(107, 177, 21, .8);
+}
