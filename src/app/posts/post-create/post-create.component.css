@@ -6,3 +6,6 @@ textarea {
 .savepost {
   background: rgba(107, 177, 21, .8);
 }
+mat-spinner{
+  margin: auto;
+}
